@@ -1,8 +1,13 @@
-<div align='right'>
+---
+layout: post
+title: Matemática Básica - S1
+permalink: /MB/S1/index.html
+category: matematica_basica
+---
+
+<div align='right' style='float:right'>
 <h4>Semana 1</h4>
 </div>
-
-# Matemática Básica
 
 ## Temario de la Semana
 - Sistemas de m x n.

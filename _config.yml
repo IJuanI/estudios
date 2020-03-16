@@ -1,0 +1,36 @@
+title: Material de Estudio - CEICH
+author:
+  name: Centro de Estudiantes - FICH
+  email: un@correo.com
+
+description: >-
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+
+baseurl: "/estudio"
+url: "http://ceich.tk"
+
+minima:
+  skin: classic
+  social_links:
+    facebook: mnr.fich
+    instagram: mnrfich
+
+disqus:
+  shortname: ceich-mde
+
+# Build settings
+# theme: minima
+
+header_pages:
+  - MB2020/contenido.md
+  - QG2020/contenido.md
+
+feed:
+  categories:
+    - matematica_basica
+    - quimica_general
+
+plugins:
+  - jekyll-feed

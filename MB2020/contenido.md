@@ -1,4 +1,9 @@
-# Matemática Básica
+---
+layout: page
+title: Matemática Básica
+permalink: /MB/index.html
+category: matematica_basica
+---
 
 Arranca el cuatri, se suspenden las clases, se esperan clases virtuales. Hermoso panorama para arrancar...
 
@@ -10,12 +15,12 @@ Si se traban en algún tema, no terminan de entender algo, o les queda alguna du
 ## Material por semana
 Acá se va a ir publicando todo el material que encontremos de los temas que vayan dando.
 
-- [Semana 1](semana1/contenido) (Introducción a Sistemas Matriciales)
+- [Semana 1](S1) (Introducción a Sistemas Matriciales)
 
 ## Bibliografía
-  - [Stanley Grossman (7ma edición)](Grossman%207ma%20Edicion.pdf)
-  - [Larson (8va edición)](Larson%208va%20Edicion.pdf)
-  - [Stewart (6ta edición)](Stewart%206ta%20Edicion.pdf)
+  - [Stanley Grossman (7ma edición)](/uploads/MB2020/Grossman%207ma%20Edicion.pdf)
+  - [Larson (8va edición)](/uploads/MB2020/Larson%208va%20Edicion.pdf)
+  - [Stewart (6ta edición)](/uploads/MB2020/Stewart%206ta%20Edicion.pdf)
 
 
 ## Profesores
