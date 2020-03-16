@@ -15,7 +15,7 @@ Si se traban en algún tema, no terminan de entender algo, o les queda alguna du
 ## Material por semana
 Acá se va a ir publicando todo el material que encontremos de los temas que vayan dando.
 
-- [Semana 1](S1) (Introducción a Sistemas Matriciales)
+- [Semana 1](/MB/S1) (Introducción a Sistemas Matriciales)
 
 ## Bibliografía
   - [Stanley Grossman (7ma edición)](/uploads/MB2020/Grossman%207ma%20Edicion.pdf)
