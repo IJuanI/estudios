@@ -8,13 +8,17 @@ En esta página, buscamos reunir material disponible en internet para complement
 
 Además, se incluyen los contactos de los profesores, y de alumnos dispuestos a responder dudas respecto a cada materia.
 
+Esto no es más que un complemento al material disponible en la plataforma de cada cátedra. Por favor, anótense en la plataforma de cada materia que cursen, y revisen permanentemente por si suben nuevo material. 
+
 ## Materias
 
 <div style="height:2em">
     <h3>1er Año</h3>
 </div>
+
 - [Matemática Básica](/MB)
 - [Química General](/QG)
+- [Fundamentos de Programación](/FP)
 
 <br>
 

@@ -35,3 +35,8 @@ https://estudios.ceich.tk/archivos/FP/Temario
   - [**S1**](/archivos/QG/S1) (Semana 1)
     - [Problemas](/archivos/QG/S1/Problemas)
     - [Teoria](/archivos/QG/S1/Teoria)
+
+<span></span>
+
+- [**FP**](/archivos/FP) (Fundamentos de Programación)
+  - [Temario](/archivos/FP/Temario)
