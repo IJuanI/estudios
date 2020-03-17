@@ -41,12 +41,12 @@ Jueguen con desmos y symbolab, aprendan a usarlos, que son super útiles en el r
 
 
 ## Profesores
-- [Silvia Seluy](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=39&course=479) (silvia_seluy@yahoo.com.ar)
-- [Alejandra Gagliardo](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=70&course=479) (agagliardo@frsf.utn.edu.ar)
-- [Juan Jose Alarcon](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=4882&course=479) (juanjose.alarcon@gmail.com)
-- [Elisabet Haye](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=66&course=479) (ehaye@fich.unl.edu.ar)
-- [Fabiana Montenegro](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=67&course=479) (montenegrofabiana@yahoo.com.ar)
-- [Lorena Podevils](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=72&course=479) (podevilslorena@gmail.com)
+- [Silvia Seluy](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=39&course=479) ([silvia_seluy@yahoo.com.ar](mailto:silvia_seluy@yahoo.com.ar))
+- [Alejandra Gagliardo](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=70&course=479) ([agagliardo@frsf.utn.edu.ar](mailto:agagliardo@frsf.utn.edu.ar))
+- [Juan Jose Alarcon](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=4882&course=479) ([juanjose.alarcon@gmail.com](mailto:juanjose.alarcon@gmail.com))
+- [Elisabet Haye](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=66&course=479) ([ehaye@fich.unl.edu.ar](mailto:ehaye@fich.unl.edu.ar))
+- [Fabiana Montenegro](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=67&course=479) ([montenegrofabiana@yahoo.com.ar](mailto:montenegrofabiana@yahoo.com.ar))
+- [Lorena Podevils](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=72&course=479) ([podevilslorena@gmail.com](mailto:podevilslorena@gmail.com))
 
 
 ## Tutores de Matemática

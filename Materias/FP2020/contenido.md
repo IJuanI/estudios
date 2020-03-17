@@ -18,12 +18,12 @@ La materia no posee un programa de contenidos (Al menos no uno que publique en s
 Es por ello que me tomo la libertad de redactar un temario orientativo, basándome en la planificación de la cátedra.
 
 ## Profesores
-- [Pablo Novara](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=1264&course=473) (nancypiovano@gmail.com)
-- [Emiliano López](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=1029&course=473) (ssobrero@fbcb.unl.edu.ar)
-- [Horacio Loyarte](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=5059&course=473) (joseraffaelli@gmail.com)
-- [Gabriela Mannarino](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=2192&course=473) (lucymanelli@gmail.com)
-- [Francisco Mainero](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=208&course=473) (leopf79@gmail.com)
-- [Javier Godoy](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=1026&course=473) (gomez.andrea.ale@gmail.com)
+- [Pablo Novara](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=212&course=489) ([zaskar_84@yahoo.com.ar](mailto:zaskar_84@yahoo.com.ar))
+- [Emiliano López](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=1200&course=489) ([emiliano.lopez@gmail.com](mailto:emiliano.lopez@gmail.com))
+- [Horacio Loyarte](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=219&course=489) ([hloyarte@gmail.com](mailto:hloyarte@gmail.com))
+- [Gabriela Mannarino](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=2632&course=489) ([gsmannar@fich1.unl.edu.ar](mailto:gsmannar@fich1.unl.edu.ar))
+- [Francisco Mainero](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=2133&course=489) ([panchi_peque_37@hotmail.com](mailto:panchi_peque_37@hotmail.com))
+- [Javier Godoy](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=1957&course=489) ([mail@rjgodoy.com.ar](mailto:mail@rjgodoy.com.ar))
 
 
 ## Tutores de FuPro

@@ -30,14 +30,14 @@ Acá se va a ir publicando todo el material que encontremos de los temas que vay
 
 
 ## Profesores
-- [Nancy Piovano](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=1264&course=473) (nancypiovano@gmail.com)
-- [Silvina Sobrero](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=1029&course=473) (ssobrero@fbcb.unl.edu.ar)
-- [Jose Raffaelli](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=5059&course=473) (joseraffaelli@gmail.com)
-- [Luciana Manelli](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=2192&course=473) (lucymanelli@gmail.com)
-- [Leonardo Fassino](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=208&course=473) (leopf79@gmail.com)
-- [Andrea Gomez](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=1026&course=473) (gomez.andrea.ale@gmail.com)
-- [Juan Franco Quaranta](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=5585&course=473) (juanfrancoquaranta@gmail.com)
-- [María Luján Vega](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=2808&course=473) (marialujan_vega@hotmail.com)
+- [Nancy Piovano](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=1264&course=473) ([nancypiovano@gmail.com](mailto:nancypiovano@gmail.com))
+- [Silvina Sobrero](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=1029&course=473) ([ssobrero@fbcb.unl.edu.ar](mailto:ssobrero@fbcb.unl.edu.ar))
+- [Jose Raffaelli](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=5059&course=473) ([joseraffaelli@gmail.com](mailto:joseraffaelli@gmail.com))
+- [Luciana Manelli](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=2192&course=473) ([lucymanelli@gmail.com](mailto:lucymanelli@gmail.com))
+- [Leonardo Fassino](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=208&course=473) ([leopf79@gmail.com](mailto:leopf79@gmail.com))
+- [Andrea Gomez](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=1026&course=473) ([gomez.andrea.ale@gmail.com](mailto:gomez.andrea.ale@gmail.com))
+- [Juan Franco Quaranta](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=5585&course=473) ([juanfrancoquaranta@gmail.com](mailto:juanfrancoquaranta@gmail.com))
+- [María Luján Vega](http://e-fich.unl.edu.ar/moodle27/user/view.php?id=2808&course=473) ([marialujan_vega@hotmail.com](mailto:marialujan_vega@hotmail.com))
 
 
 ## Tutores de Química
