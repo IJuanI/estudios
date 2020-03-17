@@ -1,4 +1,5 @@
-title: Material de Estudio - CEICH
+title: Material de Estudio
+lang: es
 author:
   name: Centro de Estudiantes - FICH
   email: un@correo.com
@@ -24,13 +25,7 @@ disqus:
 # theme: minima
 
 header_pages:
-  - MB2020/contenido.md
-  - QG2020/contenido.md
-
-feed:
-  categories:
-    - matematica_basica
-    - quimica_general
+  - archivos.md
 
 plugins:
   - jekyll-feed

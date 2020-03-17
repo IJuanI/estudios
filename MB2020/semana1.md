@@ -2,7 +2,6 @@
 layout: post
 title: Matemática Básica - S1
 permalink: /MB/S1/index.html
-category: matematica_basica
 ---
 
 <div align='right' style='float:right'>
@@ -18,10 +17,10 @@ category: matematica_basica
 - Resolución por eliminación gaussiana y sustitución en reversa.
 - Análisis particular de los sistemas homogéneos.
 
-## Bibliografía
-  - [Stanley Grossman (7ma edición)](Grossman.pdf)
-  - [Larson (8va edición)](Larson.pdf)
-  - [Stewart (6ta edición)](Stewart.pdf)
+## Bibliografía Semanal
+  - [Stanley Grossman (Recortado)](/archivos/MB/S1/Grossman)
+  - [Larson (Recortado)](/archivos/MB/S1/Larson)
+  - [Stewart (Recortado)](/archivos/MB/S1/Stewart)
 
 ## Curso Khanacademy
   - [Introducción a la Matrix](https://es.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices/x9e81a4f98389efdf:mat-intro/v/introduction-to-the-matrix)

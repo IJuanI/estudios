@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: Matemática Básica
 permalink: /MB/index.html
-category: matematica_basica
 ---
+[**Anótense a la plataforma virtual**](http://e-fich.unl.edu.ar/moodle27/course/view.php?id=479)<br>
+Clave: *MB12020*
 
 Arranca el cuatri, se suspenden las clases, se esperan clases virtuales. Hermoso panorama para arrancar...
 
@@ -18,9 +19,25 @@ Acá se va a ir publicando todo el material que encontremos de los temas que vay
 - [Semana 1](/MB/S1) (Introducción a Sistemas Matriciales)
 
 ## Bibliografía
-  - [Stanley Grossman (7ma edición)](/uploads/MB2020/Grossman%207ma%20Edicion.pdf)
-  - [Larson (8va edición)](/uploads/MB2020/Larson%208va%20Edicion.pdf)
-  - [Stewart (6ta edición)](/uploads/MB2020/Stewart%206ta%20Edicion.pdf)
+  - [Stanley Grossman (7ma edición)](/archivos/MB/Grossman)
+  - [Larson (8va edición)](/archivos/MB/Larson)
+  - [Stewart (6ta edición)](/archivos/MB/Stewart)
+
+
+## Enlaces Útiles
+  - [Programa de la Materia](/archivos/MB/Programa)
+
+## Herramientas Online
+- [**Desmos**](https://www.desmos.com/calculator) - Calculadora Gráfica
+- [**Symbolab**](https://es.symbolab.com/) - Solucionador Matemático
+
+
+### ¿Cómo usar las herramientas?
+¿Querés saber si resolviste bien un sistema de dos ecuaciones? Metelo a desmos y fijate dónde intersectan las rectas. Las ecuaciones de un sistema de ecuaciones lineal son todas rectas, y la solución al sistema es su intersección.
+
+¿No se te ocurre qué hacer para resolver un problema? ¿Querés ver si hiciste bien un ejercicio? Escribilo en symbolab.
+
+Jueguen con desmos y symbolab, aprendan a usarlos, que son super útiles en el resto de la carrera.
 
 
 ## Profesores

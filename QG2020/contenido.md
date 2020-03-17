@@ -1,8 +1,12 @@
 ---
-layout: page
+layout: post
 title: Química General
 permalink: /QG/index.html
 ---
+[**Anótense a la plataforma virtual**](http://e-fich.unl.edu.ar/moodle27/course/view.php?id=473)<br>
+Clave: *QG2020*
+
+La materia tiene material digitalizado de buena calidad, por lo que en esta página nos vamos a limitar a redireccionar al material ya disponible en la plataforma de química.
 
 Si se traban en algún tema, no terminan de entender algo, o les queda alguna duda, **pregunten**. Debajo tienen los [correos de los profes](#profesores). Si quieren algo menos formal, tienen el grupo de wsp. O, si no se animan a preguntar en el grupo, pueden enviar un privado a los [tutores](#tutores-de-matem%c3%a1tica).
 
@@ -10,12 +14,19 @@ Si se traban en algún tema, no terminan de entender algo, o les queda alguna du
 ## Material por semana
 Acá se va a ir publicando todo el material que encontremos de los temas que vayan dando.
 
-- [Semana 1](semana1) (Introducción a Sistemas Matriciales)
+- **Semana 1**
+  - Contenidos:
+    - Propiedades de la materia.
+    - Sistemas homogéneos y heterogéneos.
+    - Unidades de medida.
+  - [Guía de Teoría](/archivos/QG/S1/Teoria)
+  - [Guía de Problemas](/archivos/QG/S1/Problemas) (Páginas 2 a 4)
 
-## Bibliografía
-  - [Stanley Grossman (7ma edición)](/uploads/MB2020/Grossman%207ma%20Edicion.pdf)
-  - [Larson (8va edición)](/uploads/MB2020/Larson%208va%20Edicion.pdf)
-  - [Stewart (6ta edición)](/uploads/MB2020/Stewart%206ta%20Edicion.pdf)
+## Enlaces Útiles
+  - [Química del Ingreso](http://www.unl.edu.ar/ingreso/cursos/quimica)
+  - [Guía de Práctica](/archivos/QG/Problemas)
+  - [Programa de la Materia](/archivos/QG/Programa)
+  - [Anexo de Tablas](/archivos/QG/Tablas)
 
 
 ## Profesores

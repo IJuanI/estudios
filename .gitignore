@@ -1,5 +1,7 @@
 **/*.code-workspace
 
+uploads/
+
 _site
 .sass-cache
 .jekyll-cache

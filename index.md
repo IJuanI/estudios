@@ -1,6 +1,6 @@
 ---
 layout: home
-list_title: ' '
+title: Material de Estudio - CEICH
 ---
 
 # Biblioteca de Estudio
@@ -13,8 +13,8 @@ Además, se incluyen los contactos de los profesores, y de alumnos dispuestos a 
 <div style="height:2em">
     <h3>1er Año</h3>
 </div>
-- [Matemática Básica](MB)
-- [Química General](QG)
+- [Matemática Básica](/MB)
+- [Química General](/QG)
 
 <br>
 
