@@ -12,7 +12,7 @@ Podés acceder a los archivos escribiendo ```estudios.ceich.tk/archivos/```, má
 <pre>
 https://estudios.ceich.tk/archivos/MB/S1/Grossman
 https://estudios.ceich.tk/archivos/QG
-https://estudios.ceich.tk/archivos/FP/Programa
+https://estudios.ceich.tk/archivos/FP/Temario
 </pre>
 
 ## Índice

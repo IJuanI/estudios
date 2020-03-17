@@ -21,6 +21,8 @@ minima:
 disqus:
   shortname: ceich-mde
 
+google_analytics: UA-160835896-1
+
 # Build settings
 # theme: minima
 
