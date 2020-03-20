@@ -5,7 +5,7 @@ author:
   email: un@correo.com
 
 description: ""
-logo: "favicon.ico"
+logo: favicon.ico
 
 baseurl: ""
 url: "https://estudios.ceich.tk"
@@ -37,3 +37,8 @@ defaults:
       type: "posts"
     values:
       comments: true
+  -
+    scope:
+      path: ""
+    values:
+      image: favicon.ico
