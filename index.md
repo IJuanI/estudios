@@ -22,10 +22,6 @@ Esto no es más que un complemento al material disponible en la plataforma de ca
 
 <br>
 
-<div align="right" style="float:right">
-    <i>Última Actualización: 15 de Marzo de 2020</i>
-</div>
-
 ## Preguntas Frecuentes
 
 ***¿ Hay clases ?***<br>
