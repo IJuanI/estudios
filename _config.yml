@@ -41,4 +41,4 @@ defaults:
     scope:
       path: ""
     values:
-      image: favicon.ico
+      image: android-chrome-256x256.png
