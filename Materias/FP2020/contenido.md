@@ -6,11 +6,6 @@ permalink: /FP/index.html
 [**Anótense a la plataforma virtual**](http://e-fich.unl.edu.ar/moodle27/course/view.php?id=489)<br>
 Clave: *FP2020*
 
-La cátedra posee material actualizado y super accesible, además de ya encontrarse, a mi criterio, en condiciones de desarrollar las clases de manera virtual.
-
-Es por ello que no vamos a incluír nisiquiera actualizaciones semanales en esta página. La página es meramente un refuerzo a las materias en las que se necesite. Tienen todo el material que puedan necesitar en la plataforma virtual.
-
-Aún así, si hay algo que no entendiste, no queda claro, o si se te ocurre alguna forma de mejorar el dictado de esta materia, por favor ponete en contacto con algún profesor, algún tutor, o los chicos del centro.
 
 ## [Temario Casero](/FP/temario)
 La materia no posee un programa de contenidos (Al menos no uno que publique en su plataforma, en formato PDF).

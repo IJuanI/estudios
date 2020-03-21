@@ -22,9 +22,15 @@ https://estudios.ceich.tk/archivos/FP/Temario
   - [Larson](/archivos/MB/Larson)
   - [Stewart](/archivos/MB/Stewart)
   - [**S1**](/archivos/MB/S1) (Semana 1)
+    - [Temas](/archivos/MB/S1/Temas)
     - [Grossman](/archivos/MB/S1/Grossman)
     - [Larson](/archivos/MB/S1/Larson)
     - [Stewart](/archivos/MB/S1/Stewart)
+    - [Soluciones](/archivos/MB/S1/Soluciones)
+  - [**S2**](/archivos/MB/S2) (Semana 2)
+    - [Temas](/archivos/MB/S2/Temas)
+    - [Grossman](/archivos/MB/S2/Grossman)
+    - [Soluciones](/archivos/MB/S2/Soluciones)
 
 <span></span>
 

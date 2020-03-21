@@ -2,9 +2,18 @@ title: Material de Estudio
 lang: es
 author:
   name: Centro de Estudiantes - FICH
-  email: un@correo.com
+  links:
+    -
+      display: Biblioteca Digital
+      url: https://bibliotecafich.blogspot.com/
+    -
+      display: Plataforma Virtual
+      url: http://e-fich.unl.edu.ar/
 
-description: "Descripción de prueba"
+description: > 
+  Recopilación de Material Complementario
+  a las materias de FICH - UNL.
+
 logo: favicon.ico
 
 baseurl: ""
@@ -15,6 +24,7 @@ minima:
   social_links:
     facebook: mnr.fich
     instagram: mnrfich
+    github: IJuanI/estudios
 
 disqus:
   shortname: ceich-mde
