@@ -21,7 +21,7 @@ permalink: /MB/S1/index.html
 ## Material Semanal
   - [Guía de Temas](/archivos/MB/S1/Temas)
   - [Teoría de la Semana](https://drive.google.com/file/d/16UKc8C4tibAgbzBfieTw_pWieBR3nRLB/view)
-  - [Práctica Semanal (Reducida)](https://drive.google.com/file/d/1EiTD9wukz4qnZmV8uMHwGyGSUAgEi1M8/view)
+  - [Práctica Semanal (Reducida)](https://drive.google.com/file/d/1sJR8YqnEYPjM7QHtHTH-B4AWe3M8Nj7w/view)
   - [Práctica Semanal (Completa)](https://drive.google.com/file/d/1bkg1l1NBkTT72IvAnAFJYLKBoMY2Pi3F/view)
   - [Ejercicios Extra](https://drive.google.com/file/d/1rKoSGmITS0T5o5rh_7tITb7Vnnm5YMn8/view)
   - [Solución de Ejercicios Impares](/archivos/MB/S1/Soluciones)
