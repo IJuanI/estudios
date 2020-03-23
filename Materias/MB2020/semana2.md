@@ -26,6 +26,8 @@ permalink: /MB/S2/index.html
 
 ## Bibliografía Semanal
   - [Stanley Grossman (Recortado)](/archivos/MB/S2/Grossman)
+  - [Larson (Recortado)](/archivos/MB/S2/Larson)
+  - [Stewart (Recortado)](/archivos/MB/S2/Stewart)
 
 ## Curso Khanacademy
   - [Suma y resta de matrices](https://es.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices/x9e81a4f98389efdf:adding-and-subtracting-matrices/v/matrix-addition-and-subtraction-1)

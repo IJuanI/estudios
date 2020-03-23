@@ -18,6 +18,8 @@ https://estudios.ceich.tk/archivos/FP/Temario
 ## Índice
 - [**MB**](/archivos/MB) (Matemática Básica)
   - [Programa](/archivos/MB/Programa)
+  - [Parciales](/archivos/MB/Parciales)
+  - [Finales](/archivos/MB/Finales)
   - [Grossman](/archivos/MB/Grossman)
   - [Larson](/archivos/MB/Larson)
   - [Stewart](/archivos/MB/Stewart)
@@ -30,6 +32,8 @@ https://estudios.ceich.tk/archivos/FP/Temario
   - [**S2**](/archivos/MB/S2) (Semana 2)
     - [Temas](/archivos/MB/S2/Temas)
     - [Grossman](/archivos/MB/S2/Grossman)
+    - [Larson](/archivos/MB/S2/Larson)
+    - [Stewart](/archivos/MB/S2/Stewart)
     - [Soluciones](/archivos/MB/S2/Soluciones)
 
 <span></span>
